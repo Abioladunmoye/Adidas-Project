@@ -22,4 +22,4 @@ V. Total sales per city
 ![image](https://user-images.githubusercontent.com/83860301/186651911-38f68045-e237-4b73-ac5a-093ec7aa8b28.png)
 
 # Findings
-Men's street footwear is their top performing product
+Men's street footwear is their top performing product and its followed by women's apparel. Adidas makes more in-store sales than online and outlets. Adidas recorded more sales in 2021 compared to 2020
