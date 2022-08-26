@@ -22,9 +22,17 @@ V. Total sales per city
 ![image](https://user-images.githubusercontent.com/83860301/186651911-38f68045-e237-4b73-ac5a-093ec7aa8b28.png)
 
 # Findings
-Men's street footwear is their top performing product and its followed by women's apparel. Adidas makes more in-store sales than online and outlets. Adidas recorded more sales in 2021 compared to 2020. In terms of region they have more customers in the west and northeast.
+According to my analysis the below were my finding;
+I. Men's street footwear is Adidas's top performing product.
+II. Adidas makes 40 percent from in-store sales, 33 percent from outlets and 27 percent online.
+III. The company recorded more sales in 2021.
+IV. Region wise they make more sales in west and northeast.
+![image](https://user-images.githubusercontent.com/83860301/186853551-37356b9f-4057-4c54-aa08-fc0dda6a5f25.png)
 
 # Recommendations
-Adidas needs to consider creating more in-stores in Omaha, Baltimore, Chicago, Des Moines, Fargo and Minneapolis because these are the areas where they make the lowest sales in the United States.
+According to my analysis it is recommended that Adidas;
+I. Needs to create more in-stores in Omaha, Baltimore, Chicago, Des Moines and Minneapolis.
+II. Create more product awareness for their products especially in the south and midwest.
+![image](https://user-images.githubusercontent.com/83860301/186853645-626b78f1-d419-4387-a64c-daa744f331fc.png)
 ![image](https://user-images.githubusercontent.com/83860301/186677587-2e4e2806-d91f-4f54-87f9-4e1c586b1920.png)
 
