@@ -16,17 +16,23 @@ III. Sales methods
 ![image](https://user-images.githubusercontent.com/83860301/186651641-18b8ff05-7481-4721-9b73-bbeb0cdbfcc0.png)
 
 IV. Total Sales per region
-![image](https://user-images.githubusercontent.com/83860301/186651804-6e1a239d-c4d6-4213-b78a-3de06c7e55cb.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/83860301/187078121-0ce637f3-53ea-4dc5-8f78-be3b9eddb04e.png))
 
-V. Total sales per city
-![image](https://user-images.githubusercontent.com/83860301/186651911-38f68045-e237-4b73-ac5a-093ec7aa8b28.png)
+V. Total sales per city.
+
+# Data Sourcing:
+The dataset was gotten from a public dataset.
+
+# Data Cleaning:
+This dataset was downloaded and cleaned in Microsoft Excel. Duplicates, blanks, spellings were checked and missing values were inputted.
 
 # Findings
 According to my analysis the below were my finding;
 I. Men's street footwear is Adidas's top performing product.
 II. Adidas makes 40 percent from in-store sales, 33 percent from outlets and 27 percent online.
 III. The company recorded more sales in 2021.
-IV. Region wise they make more sales in west and northeast.
+IV. Region wise they make more sales
+in west and northeast.
 
 # Recommendations
 According to my analysis it is recommended that Adidas;
